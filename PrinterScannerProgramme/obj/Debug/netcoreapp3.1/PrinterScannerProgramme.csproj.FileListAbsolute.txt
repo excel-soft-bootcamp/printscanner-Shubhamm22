@@ -1,0 +1,13 @@
+D:\visual studio\First\PrinterScannerProgramme\obj\Debug\netcoreapp3.1\PrinterScannerProgramme.csproj.AssemblyReference.cache
+D:\visual studio\First\PrinterScannerProgramme\obj\Debug\netcoreapp3.1\PrinterScannerProgramme.AssemblyInfoInputs.cache
+D:\visual studio\First\PrinterScannerProgramme\obj\Debug\netcoreapp3.1\PrinterScannerProgramme.AssemblyInfo.cs
+D:\visual studio\First\PrinterScannerProgramme\obj\Debug\netcoreapp3.1\PrinterScannerProgramme.csproj.CoreCompileInputs.cache
+D:\visual studio\First\PrinterScannerProgramme\bin\Debug\netcoreapp3.1\PrinterScannerProgramme.exe
+D:\visual studio\First\PrinterScannerProgramme\bin\Debug\netcoreapp3.1\PrinterScannerProgramme.deps.json
+D:\visual studio\First\PrinterScannerProgramme\bin\Debug\netcoreapp3.1\PrinterScannerProgramme.runtimeconfig.json
+D:\visual studio\First\PrinterScannerProgramme\bin\Debug\netcoreapp3.1\PrinterScannerProgramme.runtimeconfig.dev.json
+D:\visual studio\First\PrinterScannerProgramme\bin\Debug\netcoreapp3.1\PrinterScannerProgramme.dll
+D:\visual studio\First\PrinterScannerProgramme\bin\Debug\netcoreapp3.1\PrinterScannerProgramme.pdb
+D:\visual studio\First\PrinterScannerProgramme\obj\Debug\netcoreapp3.1\PrinterScannerProgramme.dll
+D:\visual studio\First\PrinterScannerProgramme\obj\Debug\netcoreapp3.1\PrinterScannerProgramme.pdb
+D:\visual studio\First\PrinterScannerProgramme\obj\Debug\netcoreapp3.1\PrinterScannerProgramme.genruntimeconfig.cache
